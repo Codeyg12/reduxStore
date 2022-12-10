@@ -1,6 +1,6 @@
 <a name="readme-top"></a>
 
-# Redux Store
+# Redux Store [<img align="right" src="https://img.shields.io/badge/license-MIT-00beef"></img>](LICENSE)
 
 ### Description
 
